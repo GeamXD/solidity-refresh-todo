@@ -1,0 +1,34 @@
+No files changed, compilation skipped
+Deployer: 0x96017E28A16026e6dEd25A1412d1a6684325E17d
+Deployed to: 0xb14c3b6B7F898e9e3620a5eaCb9006d6150E9Bb3
+Transaction hash: 0xd4d3f94daaecde74987958f35c03817397bbf05dab361a346578cc4ee28742bb
+Starting contract verification...
+Waiting for etherscan to detect contract deployment...
+Start verifying contract `0xb14c3b6B7F898e9e3620a5eaCb9006d6150E9Bb3` deployed on sepolia
+Compiler version: 0.8.28
+
+Submitting verification for [src/Todos.sol:Todos] 0xb14c3b6B7F898e9e3620a5eaCb9006d6150E9Bb3.
+Warning: Etherscan could not detect the deployment.; waiting 5 seconds before trying again (4 tries remaining)
+
+Submitting verification for [src/Todos.sol:Todos] 0xb14c3b6B7F898e9e3620a5eaCb9006d6150E9Bb3.
+Warning: Etherscan could not detect the deployment.; waiting 5 seconds before trying again (3 tries remaining)
+
+Submitting verification for [src/Todos.sol:Todos] 0xb14c3b6B7F898e9e3620a5eaCb9006d6150E9Bb3.
+Warning: Etherscan could not detect the deployment.; waiting 5 seconds before trying again (2 tries remaining)
+
+Submitting verification for [src/Todos.sol:Todos] 0xb14c3b6B7F898e9e3620a5eaCb9006d6150E9Bb3.
+Warning: Etherscan could not detect the deployment.; waiting 5 seconds before trying again (1 tries remaining)
+
+Submitting verification for [src/Todos.sol:Todos] 0xb14c3b6B7F898e9e3620a5eaCb9006d6150E9Bb3.
+Submitted contract for verification:
+        Response: `OK`
+        GUID: `djdppdhkfnmf2ytgfedyyuemwc1qaibuvaqngvhexlaksbjkqu`
+        URL: https://sepolia.etherscan.io/address/0xb14c3b6b7f898e9e3620a5eacb9006d6150e9bb3
+Contract verification status:
+Response: `NOTOK`
+Details: `Pending in queue`
+Warning: Verification is still pending...; waiting 15 seconds before trying again (7 tries remaining)
+Contract verification status:
+Response: `OK`
+Details: `Pass - Verified`
+Contract successfully verified
